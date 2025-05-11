@@ -1,0 +1,3 @@
+/mnt/c/Users/장민주/Desktop/important files/대학교/2025 1학기/cpp/cpp/cmake-build-debug/CMakeFiles/cpp.dir
+/mnt/c/Users/장민주/Desktop/important files/대학교/2025 1학기/cpp/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/장민주/Desktop/important files/대학교/2025 1학기/cpp/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
