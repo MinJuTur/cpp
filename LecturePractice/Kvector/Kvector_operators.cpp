@@ -1,3 +1,12 @@
+//
+//Kvector class 에  (1)=, (2)==, (3)!=, (4)[], (5)<< 연산자들을 class 외부에 구현하라.
+//(1) =  대입 연산자는 깊은 복사로 구현해야 한다. (member function)
+//(2) 연산 결과는 m 배열의 길이가 같고 배열의 모든 원소가 같으면 true, 아니면 false 이다.
+//(3) == 연산자를 호출하여 구현해야 한다.
+//(4) v[1] = 10; 과 같이 v[1] 가 대입 연산자의 LHS 에 사용될 수 있어야 한다. (member function)
+//(5) cout << v << w 의 형태로 사용될 수 있어야 한다.
+//
+
 #include <iostream>
 using namespace std;
 
