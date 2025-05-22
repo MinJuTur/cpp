@@ -1,6 +1,2 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S "/mnt/c/Users/장민주/Desktop/important files/대학교/2025 1학기/cpp/cpp" -B "/mnt/c/Users/장민주/Desktop/important files/대학교/2025 1학기/cpp/cpp/cmake-build-debug"
-CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
-  CMake 4.0 or higher is required.  You are running version 3.22.1
-
-
--- Configuring incomplete, errors occurred!
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/장민주/Desktop/important files/대학교/2025 1학기/cpp/cpp"
+/bin/bash: line 1: /usr/bin/cmake: No such file or directory
